@@ -16,7 +16,9 @@ print("h")
 
 print("h")
 print("h")
-print("maste text")
+
+print("pampampam")
+
 print("h")
 print("h")
 print("h")
